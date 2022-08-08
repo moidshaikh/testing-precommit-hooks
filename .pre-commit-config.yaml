@@ -10,4 +10,4 @@ repos:
   rev: v8.0.1
   hooks:
     - id: yaspeller
-      files: "\\.en"
+      # files: "\\.en"
