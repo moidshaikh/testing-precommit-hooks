@@ -6,6 +6,11 @@
       "node_modules",
       "libs"
     ],
+    "fileExtensions": [
+        ".md",
+        ".txt"
+      ],
+    "report": ["console", "html"],
     "format": "html",
     "lang": "en"
 }
