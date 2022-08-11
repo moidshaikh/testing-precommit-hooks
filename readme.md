@@ -1,4 +1,4 @@
-testts
-wronggg
+tests
+wronging
 correct
-inckorrect
+incorrect
