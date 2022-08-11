@@ -1,4 +1,4 @@
-dtests
+tests
 wronging
 correct
 incorrect

@@ -2,10 +2,11 @@
   "excludeFiles": [
     ".git",
     "libs",
+    "venv",
     "node_modules",
-    "yaspeller"
+    ".yaspellerrc"
   ],
-  "lang": "ru",
+  "lang": "en",
   "fileExtensions": [
     ".md",
     ".css"
@@ -13,4 +14,5 @@
   "dictionary": [
     "someword1"
   ]
+
 }
