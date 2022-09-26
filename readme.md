@@ -1,4 +1,2 @@
-tests
-wronging
 correct
 incorrect
